@@ -1,16 +1,20 @@
-import Tweepy
+import tweepy
+import time
+import json
 
-# Authenticate to Twitter
-# It's needed to register in the Tweepy web to access to the API and be able to use the modul
-auth = tweepy.OAuthHandler("CONSUMER_KEY", "CONSUMER_SECRET")
-auth.set_access_token("ACCESS_TOKEN", "ACCESS_TOKEN_SECRET")
+# json data
+with open('D:\\CODES\\reb_pss.json', 'r') as f:
+    tw = json.load(f)
 
-# Create API object
-api  = tweepy.API(auth)
+with open('arch_quotes.json', 'r') as f:
+    arch = json.load(f)
+
+# twitter authentication information
+auth = tweepy.OAuthHandler(tw["twitter"]["consumer_key"], tw["twitter"]["consumer_secret"])
+auth.set_access_token(tw["twitter"]["access_token"], tw["twitter"]["access_token_secret"])
+
+api = tweepy.API(auth)
 
 public_tweets = api.home_timeline()
 for tweet in public_tweets:
-    print(tweet..text)
-
-# Create a tweet
-api.update_state("Hello Tweepy")
+    print(tweet.text)
