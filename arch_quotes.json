@@ -1,23 +1,102 @@
 {
-    "Mies van der Rohe": "God is in the details.",
-    "Louis Sullivan": "Form ever follows function.",
-    "Charles Eames": "Recognizing the need is the primary condition for design.",
-    "Le Corbusier": "Architecture is the learned game, correct and magnificent, of forms assembled in the light.",
-    "Frank Lloyd Wright": "An idea is salvation by imagination.",
-    "Mies van der Rohe": "Less is more.",
-    "Rem Koolhaas": "Not many architects have the luxury to reject significant things.",
-    "Frank Lloyd Wright": "A doctor can bury his mistakes, but an architect can only advise his clients to plant vines.",
-    "Frank Gehry": "Architecture should speak of its time and place, but yearn for timelessness.",
-    "Buckminster Fuller": "When I’m working on a problem, I never think about beauty. But when I’ve finished, if the solution is not beautiful I know it’s wrong.",
-    "Norman Foster": "As an architect you design for the present, with an awareness of the past, for a future which is essentially unknown.",
-    "Daniel Libeskind": "o provide meaningful architecture is not to parody history but to articulate it.",
-    "Eileen Gray": "To create, one must first question everything.",
-    "Zaha Hadid": "Architecture is really about well-being. I think that people want to feel good in a space… On the one hand it’s about shelter, but it’s also about pleasure.",
-    "Leonardo da Vinci": "Simplicity is the ultimate sophistication.”",
-    "Zaha Hadid": "There are 360 degrees, so why stick to one?",
-    "Frank Gehry": "I don’t know why people hire architects and then tell them what to do.",
-    "Renzo Piano": "One of the great beauties of architecture is that each time, it is like life starting all over again.",
-    "Frank Lloyd Wright": "The mother art is architecture. Without an architecture of our own we have no soul of our own civilization.",
-    "Oscar Niemeyer": "My work is not about “form follows function”, but “form follows beauty” or, even better, “form follows feminine."
-
+    "quote1": {
+        "author": "Mies van der Rohe",
+        "quote": "God is in the details.",
+        "date": "2020-09-20"
+    },
+    "quote2": {
+        "author": "Louis Sullivan",
+        "quote": "Form ever follows function.",
+        "date": "2020-09-27"
+    },
+    "quote3": {
+        "author": "Charles Eames",
+        "quote": "Recognizing the need is the primary condition for design.",
+        "date": "2020-10-04"
+    },
+    "quote4": {
+        "author": "Le Corbusier",
+        "quote": "Architecture is the learned game, correct and magnificent, of forms assembled in the light.",
+        "date": "2020-10-11"
+    },
+    "quote5": {
+        "author": "Frank Lloyd Wright",
+        "quote": "An idea is salvation by imagination.",
+        "date": "2020-10-18"
+    },
+    "quote6": {
+        "author": "Mies van der Rohe",
+        "quote": "Less is more.",
+        "date": "2020-10-25"
+    },
+    "quote7": {
+        "author": "Rem Koolhaas",
+        "quote": "Not many architects have the luxury to reject significant things.",
+        "date": "2020-11-01"
+    },
+    "quote8": {
+        "author": "Frank Lloyd Wright",
+        "quote": "A doctor can bury his mistakes, but an architect can only advise his clients to plant vines.",
+        "date": "2020-11-08"
+    },
+    "quote9": {
+        "author": "Frank Gehry",
+        "quote": "Architecture should speak of its time and place, but yearn for timelessness.",
+        "date": "2020-11-15"
+    },
+    "quote10": {
+        "author": "Buckminster Fuller",
+        "quote": "When I’m working on a problem, I never think about beauty. But when I’ve finished, if the solution is not beautiful I know it’s wrong.",
+        "date": "2020-11-22"
+    },
+    "quote11": {
+        "author": "Norman Foster",
+        "quote": "As an architect you design for the present, with an awareness of the past, for a future which is essentially unknown.",
+        "date": "2020-11-29"
+    },
+    "quote12": {
+        "author": "Daniel Libeskind",
+        "quote": "o provide meaningful architecture is not to parody history but to articulate it.",
+        "date": "2020-12-06"
+    },
+    "quote13": {
+        "author": "Eileen Gray",
+        "quote": "To create, one must first question everything.",
+        "date": "2020-12-13"
+    },
+    "quote14": {
+        "author": "Zaha Hadid",
+        "quote": "Architecture is really about well-being. I think that people want to feel good in a space… On the one hand it’s about shelter, but it’s also about pleasure.",
+        "date": "2020-12-20"
+    },
+    "quote15": {
+        "author": "Leonardo da Vinci",
+        "quote": "Simplicity is the ultimate sophistication.",
+        "date": "2020-12-27"
+    },
+    "quote16": {
+        "author": "Zaha Hadid",
+        "quote": "There are 360 degrees, so why stick to one?",
+        "date": ""
+    },
+    "quote17": {
+        "author": "Frank Gehry",
+        "quote": "I don’t know why people hire architects and then tell them what to do.",
+        "date": ""
+    },
+    "quote18": {
+        "author": "Renzo Piano",
+        "quote": "One of the great beauties of architecture is that each time, it is like life starting all over again.",
+        "date": ""
+    },
+    "quote19": {
+        "author": "Frank Lloyd Wright",
+        "quote": "The mother art is architecture. Without an architecture of our own we have no soul of our own civilization.",
+        "date": ""
+    },
+    "quote20": {
+        "author": "Oscar Niemeyer",
+        "quote": "My work is not about form follows function, but form follows beauty or, even better, form follows feminine.",
+        "date": ""
+    }
 }
